@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tp3DominguezJuan</string>
+    <string name="btnConfirmar">Siguiente</string>
+    <string name="rb_Cono">Cono $150</string>
+    <string name="rb_Vaso">Vaso 1/4 $300</string>
+    <string name="rb_Kilo">Kilo $750</string>
+    <string name="titulo1">Heladeria Dominguez</string>
+    <string name="titulo2">Seleccione sus gustos</string>
+    <string name="cbDulce">Dulce de leche</string>
+    <string name="cbChoco">Chocolate</string>
+    <string name="cbTramontana">Tramontana</string>
+    <string name="cbNaranja">Naranja</string>
+    <string name="btnCaja1">Caja1</string>
+    <string name="btnCaja2">Caja2</string>
+    <string name="btnCaja3">Caja3</string>
+    <string name="btnMostrar">Mostrar Pedidos</string>
+    <string name="btnHome">Volver</string>
+</resources>
